@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc6259af9c952464c899a07a719f5cda, type: 3}
+  m_Name: CockSoundClips
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 72217d6379652834c8ed42ecdb2358fa, type: 3}
+  - {fileID: 8300000, guid: 555baae5574c5f94ab43aacc379ab360, type: 3}
+  - {fileID: 8300000, guid: ee65f338cd36dc94b8ed0d6771720f8e, type: 3}
+  - {fileID: 8300000, guid: 4203e58303f172049b84a7030bc5b17f, type: 3}
+  - {fileID: 8300000, guid: fe8b55b3596c60b4ba02da03ca08079a, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc6259af9c952464c899a07a719f5cda, type: 3}
+  m_Name: ReloadSoundClips
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ec2e1cd13f2eb5a4183e34f28dfb0911, type: 3}
+  - {fileID: 8300000, guid: b4735df9a5e1f7e41b8c4e9f35490374, type: 3}
+  - {fileID: 8300000, guid: 13a271df0bd313e4aab87b3ef6db584a, type: 3}
